@@ -1,3 +1,7 @@
+Display how the quality of your prints will be like in real size (by specificing how big your display is)
+
+preview version running at [https://](https://print.nicolaikobras.de/)
+
 # bun-react-tailwind-template
 
 To install dependencies:
